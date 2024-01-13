@@ -2,11 +2,11 @@
 
 # 😶‍🌫️ What i do
 
-I make small python projects come to life.
+I code in Python, Java, Typescript and i am still learning more!
 
 # ❤️ Who am i
 
-My name is Sidney, i am 14 years old and i code in python and have been doing so for 2 years and still learning.
+My name is Sidney, i am from the Netherlands.
 
-I am from the netherlands and i still live there and have done so for 14 years now :)
+18 <
 
