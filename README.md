@@ -41,6 +41,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bink-Lab/Bink-Lab/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/ 31nn7tpaxfighddkcze22v2oxxcu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031nn7tpaxfighddkcze22v2oxxcu&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
